@@ -7,7 +7,7 @@ The intent of this program is to get more familiar with the p5.js / Processing l
 
 KNOWN BUGS:
 
-1. The saved file doesn't contain the GUI, but it will resize to the current window size. 
+1. The saved file will resize to the current window size. 
 
 In-browser GUI
 ![](https://user-images.githubusercontent.com/46334898/90324149-149a2e00-df39-11ea-865f-7593817bc29e.png)
